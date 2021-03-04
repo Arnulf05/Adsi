@@ -4,7 +4,7 @@
   "description": "Adsi proyecto Andres",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app"
   },
   "type": "module",
   "author": "ANDRES ARNULFO SARMIENTO DUARTE",
